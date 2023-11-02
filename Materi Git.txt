@@ -3,7 +3,7 @@ working directory 	staging area   		local repository  	remote repository
 git add -->       	git commit -->   	 git push  -->    
 							
 							
-<-- git merge						 <-- git fetch 
+<-- git merge						     <-- git fetch 
 
 
                                   <-- git pull
